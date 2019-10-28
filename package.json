@@ -1,7 +1,7 @@
 {
-  "name": "webdriverio-typescript-es6modules-tsnode-mocha-chai",
+  "name": "webdriverio-typescript-es6modules-tsnode-mocha-chai-sync",
   "version": "1.0.0",
-  "description": "WebdriverIO end-to-end test automation boilerplate project. Using TypeScript, ES6 modules, ts-node, mocha, &amp; chai",
+  "description": "WebdriverIO (sync) end-to-end test automation boilerplate project. Using TypeScript, ES6 modules, ts-node, mocha, and chai",
   "scripts": {
     "test": "npx wdio wdio.conf.js",
     "lint": "npx tslint -c tslint.json './spec/*.ts'",
@@ -10,7 +10,11 @@
   "keywords": [
     "webdriverio",
     "typescript",
+    "es6 modules",
     "ts-node",
+    "mocha",
+    "chai",
+    "sync",
     "boilerplate",
     "example"
   ],

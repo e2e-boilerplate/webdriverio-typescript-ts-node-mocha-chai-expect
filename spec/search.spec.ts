@@ -1,17 +1,21 @@
 import { expect } from "chai";
 
+let searchBox: any;
+
 describe("google search", () => {
   before(() => {
     browser.url("https://www.google.com/");
   });
 
-  it("should be on google search page", async () => {
-    const title: string = await browser.getTitle();
+  it("should be on google search page", () => {
+    searchBox = $(".gLFyf.gsfi");
+    searchBox.waitForDisplayed(5000);
+
+    const title: string = browser.getTitle();
     expect(title).to.eq("Google");
   });
 
   it("should search for Cheese!", () => {
-    const searchBox = $(".gLFyf.gsfi");
     expect(searchBox.isDisplayed()).to.eq(true);
     searchBox.addValue("Cheese!");
 
