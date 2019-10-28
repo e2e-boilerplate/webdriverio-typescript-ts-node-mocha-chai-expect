@@ -4,7 +4,7 @@ WebdriverIO end-to-end test automation boilerplate project. Using TypeScript, ES
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/webdriverio-typescript-es6modules-tsnode-mocha-chai-sync.git
-    cd webdriverio-typescript-es6modules-tsnode-mocha-chai-sync
+    git clone git@github.com:e2e-boilerplates/webdriverio-es6modules-typescript-tsnode-mocha-chai-sync.git
+    cd webdriverio-es6modules-typescript-tsnode-mocha-chai-sync
     npm install
     npm run test
