@@ -1,5 +1,5 @@
 {
-  "name": "webdriverio-typescript-es6modules-tsnode-mocha-chai-sync",
+  "name": "webdriverio-es6modules-typescript-tsnode-mocha-chai-sync",
   "version": "1.0.0",
   "description": "WebdriverIO (sync) end-to-end test automation boilerplate project. Using TypeScript, ES6 modules, ts-node, mocha, and chai",
   "scripts": {
