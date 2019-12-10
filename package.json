@@ -21,7 +21,7 @@
   "author": "Girma Nigusse",
   "license": "MIT",
   "devDependencies": {
-    "@types/chai": "4.2.6",
+    "@types/chai": "4.2.7",
     "@types/mocha": "5.2.7",
     "@types/node": "12.12.16",
     "@wdio/cli": "5.16.13",
