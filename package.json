@@ -23,7 +23,7 @@
   "devDependencies": {
     "@types/chai": "4.2.7",
     "@types/mocha": "5.2.7",
-    "@types/node": "12.12.24",
+    "@types/node": "12.12.25",
     "@wdio/cli": "5.18.5",
     "@wdio/dot-reporter": "5.16.5",
     "@wdio/local-runner": "5.18.5",
