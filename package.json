@@ -4,6 +4,7 @@
   "description": "WebdriverIO (sync) end-to-end test automation boilerplate project. Using TypeScript, ES6 modules, ts-node, mocha, and chai",
   "scripts": {
     "test": "npx wdio wdio.conf.js",
+    "test-ci": "npx wdio wdio-ci.conf.js",
     "lint": "npx tslint -c tslint.json './spec/*.ts'",
     "pretty": "npx prettier --no-config './spec/*.ts' --write"
   },
