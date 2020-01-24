@@ -1,6 +1,6 @@
 # WebdriverIO (sync): (TypeScript, ES6 modules, ts-node, mocha, chai)
 
-[![GitHub Actions status | e2e-boilerplates/webdriverio-es6modules-typescript-tsnode-mocha-chai-sync](https://github.com//e2e-boilerplates/webdriverio-es6modules-typescript-tsnode-mocha-chai-sync/workflows/NodeCI/badge.svg)](https://github.com//e2e-boilerplates/webdriverio-es6modules-typescript-tsnode-mocha-chai-sync/actions?workflow=NodeCI)
+[![GitHub Actions status | e2e-boilerplates/webdriverio-es6modules-typescript-tsnode-mocha-chai-sync](https://github.com//e2e-boilerplates/webdriverio-es6modules-typescript-tsnode-mocha-chai-sync/workflows/webdriverio-es6modules-typescript-tsnode-mocha-chai-sync/badge.svg)](https://github.com//e2e-boilerplates/webdriverio-es6modules-typescript-tsnode-mocha-chai-sync/actions?workflow=webdriverio-es6modules-typescript-tsnode-mocha-chai-sync)
 
 WebdriverIO end-to-end test automation boilerplate project. Using TypeScript, ES6 modules, ts-node, mocha, &amp; chai
 

@@ -1,35 +1,15 @@
 import { expect } from "chai";
 
-let searchBox: any;
-
-describe("google search", () => {
+describe("Sandbox", () => {
   before(() => {
-    browser.url("https://www.google.com/");
+    browser.url("https://e2e-boilerplates.github.io/sandbox/");
   });
 
-  it("should be on google search page", () => {
-    searchBox = $(".gLFyf.gsfi");
-    searchBox.waitForDisplayed(5000);
-
+  it("should be on Sandbox", () => {
     const title: string = browser.getTitle();
-    expect(title).to.eq("Google");
-  });
+    const header: string = $("h1").getText();
 
-  it("should search for Cheese!", () => {
-    expect(searchBox.isDisplayed()).to.eq(true);
-    searchBox.addValue("Cheese!");
-
-    const googleSearchButton = $(".gNO89b");
-    googleSearchButton.waitForDisplayed(5000);
-    googleSearchButton.click();
-  });
-
-  it('the page title should start with "Cheese!"', () => {
-    const resultStats = $("#resultStats");
-    resultStats.waitForDisplayed(5000);
-
-    const title: string = browser.getTitle();
-    const words = title.split(" ");
-    expect(words[0]).to.eq("Cheese!");
+    expect(title).to.eq("Sandbox");
+    expect(header).to.eq("Sandbox");
   });
 });
