@@ -1,6 +1,9 @@
 name: webdriverio-es6modules-typescript-tsnode-mocha-chai-sync
 
-on: [push]
+on: 
+  push:
+  schedule:
+    - cron: '0 0 1-31/2 * *' 
 
 jobs:
   build:
