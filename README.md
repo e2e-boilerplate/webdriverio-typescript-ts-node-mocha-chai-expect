@@ -1,12 +1,12 @@
-# WebdriverIO (sync): (TypeScript, ES6 modules, ts-node, mocha, chai)
+# WebdriverIO: (TypeScript, ts-node, Mocha and Chai)
 
-[![GitHub Actions status | e2e-boilerplates/webdriverio-es6modules-typescript-tsnode-mocha-chai-sync](https://github.com//e2e-boilerplates/webdriverio-es6modules-typescript-tsnode-mocha-chai-sync/workflows/webdriverio-es6modules-typescript-tsnode-mocha-chai-sync/badge.svg)](https://github.com//e2e-boilerplates/webdriverio-es6modules-typescript-tsnode-mocha-chai-sync/actions?workflow=webdriverio-es6modules-typescript-tsnode-mocha-chai-sync)
+[![GitHub Actions status | e2e-boilerplates/webdriverio-typescript-ts-node-mocha-chai](https://github.com//e2e-boilerplates/webdriverio-typescript-ts-node-mocha-chai/workflows/webdriverio-typescript-ts-node-mocha-chai/badge.svg)](https://github.com//e2e-boilerplates/webdriverio-typescript-ts-node-mocha-chai/actions?workflow=webdriverio-typescript-ts-node-mocha-chai)
 
-WebdriverIO end-to-end test automation boilerplate project. Using TypeScript, ES6 modules, ts-node, mocha, &amp; chai
+WebdriverIO end-to-end test automation boilerplate, using TypeScript, ts-node, Mocha and Chai
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/webdriverio-es6modules-typescript-tsnode-mocha-chai-sync.git
-    cd webdriverio-es6modules-typescript-tsnode-mocha-chai-sync
+    git clone git@github.com:e2e-boilerplates/webdriverio-typescript-ts-node-mocha-chai.git
+    cd webdriverio-typescript-ts-node-mocha-chai
     npm install
     npm run test
