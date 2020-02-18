@@ -1,4 +1,4 @@
-name: webdriverio-typescript-ts-node-mocha-chai
+name: webdriverio-typescript-ts-node-mocha-chai-expect
 
 on:
   push:
@@ -21,7 +21,9 @@ jobs:
         npm ci
       env:
         CI: true
-    - name: LINT, TEST
+    - name: LINT
       run: |
         npm run lint
-        npm run test-ci
+    - name: TEST
+      run: |
+        npm run test
