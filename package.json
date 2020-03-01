@@ -12,7 +12,7 @@
     "@wdio/sync": "5.18.7",
     "chai": "4.2.0",
     "chromedriver": "79.0.3",
-    "eslint-plugin-json": "^2.1.0",
+    "eslint-plugin-json": "2.1.0",
     "husky": "4.2.3",
     "lint-staged": "10.0.8",
     "mocha": "7.1.0",
