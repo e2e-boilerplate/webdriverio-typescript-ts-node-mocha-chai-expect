@@ -2,7 +2,7 @@
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "description": "WebdriverIO (sync) end-to-end test automation boilerplate, using TypeScript, ES6 modules, ts-node, Mocha, Chai and Expect",
   "devDependencies": {
-    "@types/chai": "4.2.9",
+    "@types/chai": "4.2.10",
     "@types/mocha": "7.0.1",
     "@types/node": "12.12.29",
     "@wdio/cli": "5.18.7",
