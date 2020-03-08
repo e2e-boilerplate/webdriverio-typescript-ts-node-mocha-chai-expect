@@ -1,6 +1,6 @@
 {
-  "author": "",
-  "description": "WebdriverIO (sync) end-to-end test automation boilerplate, using TypeScript, ES6 modules, ts-node, Mocha, Chai and Expect",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "description": "webdriverio end-to-end test automation boilerplate.",
   "devDependencies": {
     "@types/chai": "4.2.10",
     "@types/mocha": "7.0.2",
@@ -29,7 +29,12 @@
     }
   },
   "keywords": [
+    "boilerplate",
     "chai",
+    "e2e",
+    "e2e tests",
+    "example",
+    "integration test",
     "mocha",
     "ts-node",
     "typescript",
