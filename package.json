@@ -1,5 +1,5 @@
 {
-  "author": "",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/issues"
   },
@@ -33,7 +33,12 @@
     }
   },
   "keywords": [
+    "boilerplate",
     "chai",
+    "e2e",
+    "e2e tests",
+    "example",
+    "integration test",
     "mocha",
     "ts-node",
     "typescript",
