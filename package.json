@@ -5,7 +5,7 @@
   },
   "description": "WebdriverIO end-to-end test automation boilerplate. using TypeScript, ts-node, Mocha and Chai.",
   "devDependencies": {
-    "@types/chai": "4.2.10",
+    "@types/chai": "4.2.11",
     "@types/mocha": "7.0.2",
     "@types/node": "12.12.30",
     "@wdio/cli": "5.21.0",
