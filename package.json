@@ -60,5 +60,6 @@
     "pretty": "npx prettier --no-config './spec/*.ts' --write",
     "test": "npx wdio"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {}
 }
