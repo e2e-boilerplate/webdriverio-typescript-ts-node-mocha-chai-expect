@@ -1,18 +1,11 @@
 {
   "compilerOptions": {
-    "target": "es6",
-    "module": "commonjs",
     "strict": true,
     "moduleResolution": "node",
-    "typeRoots": [
-      "node_modules/@types"
-    ],
-    "esModuleInterop": true,
-    "types": [
-      "node",
-      "@wdio/sync",
-      "@wdio/mocha-framework",
-      "chai"
-    ]
+    "resolveJsonModule": true,
+    "types": ["node", "mocha", "chai", "@wdio/sync", "@wdio/mocha-framework"],
+    "typeRoots": ["node_modules/@types"],
+    "outDir": "build",
+    "target": "es5"
   }
 }
