@@ -14,7 +14,7 @@
     "@wdio/mocha-framework": "5.18.7",
     "@wdio/sync": "5.20.1",
     "chai": "4.2.0",
-    "chromedriver": "79.0.3",
+    "chromedriver": "^80.0.1",
     "husky": "4.2.3",
     "lint-staged": "10.0.8",
     "mocha": "7.1.1",
