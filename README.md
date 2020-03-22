@@ -1,8 +1,8 @@
-[![GitHub Actions status | e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/workflows/webdriverio-typescript-ts-node-mocha-chai/badge.svg)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions?workflow=webdriverio-typescript-ts-node-mocha-chai) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Actions status | e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/workflows/webdriverio-typescript-ts-node-mocha-chai/badge.svg)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions?workflow=webdriverio-typescript-ts-node-mocha-chai) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Buy Me A Coffee](https://img.shields.io/badge/buy-me%20coffee-orange)](https://www.buymeacoffee.com/xgirma)
 
 # WebdriverIO Boilerplate
 
-WebdriverIO end-to-end test automation boilerplate, using TypeScript, ts-node, Mocha and Chai.
+WebdriverIO end-to-end test automation boilerplate, Using TypeScript, ts-node, Mocha and Chai.
 
 ## Getting Started
 
