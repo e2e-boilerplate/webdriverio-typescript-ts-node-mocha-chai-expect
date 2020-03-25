@@ -3,8 +3,16 @@
     "strict": true,
     "moduleResolution": "node",
     "resolveJsonModule": true,
-    "types": ["node", "mocha", "chai", "@wdio/sync", "@wdio/mocha-framework"],
-    "typeRoots": ["node_modules/@types"],
+    "types": [
+      "node",
+      "mocha",
+      "chai",
+      "@wdio/sync",
+      "@wdio/mocha-framework"
+    ],
+    "typeRoots": [
+      "node_modules/@types"
+    ],
     "outDir": "build",
     "target": "es5"
   }
