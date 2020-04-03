@@ -31,7 +31,7 @@
   "homepage": "https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai#readme",
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "lint-staged --allow-empty"
     }
   },
   "keywords": [
