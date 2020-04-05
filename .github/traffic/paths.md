@@ -1,0 +1,12 @@
+| referrer                                                                                      | count | uniques |
+| :-------------------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai                                    | 8     | 3       |
+| /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/blob/master/tsconfig.json          | 4     | 1       |
+| /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/blob/master/wdio.conf.js           | 3     | 2       |
+| /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/blob/master/spec/search.spec.ts    | 2     | 2       |
+| /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/tree/master/spec                   | 2     | 2       |
+| /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions                            | 2     | 1       |
+| /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/64192612              | 1     | 1       |
+| /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/blob/master/.github/runs_status.md | 1     | 1       |
+| /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/blob/master/package.json           | 1     | 1       |
+| /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/runs/538028905                     | 1     | 1       |
