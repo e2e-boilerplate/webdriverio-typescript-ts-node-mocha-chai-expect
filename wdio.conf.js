@@ -18,6 +18,7 @@ const headed = {
   cucumberOpts: {},
   // eslint-disable-next-line no-unused-vars
   before: (capabilities, specs) => {
+    // eslint-disable-next-line global-require
     require("ts-node").register({ files: true });
   },
 };
@@ -45,6 +46,7 @@ const headless = {
   cucumberOpts: {},
   // eslint-disable-next-line no-unused-vars
   before: (capabilities, specs) => {
+    // eslint-disable-next-line global-require
     require("ts-node").register({ files: true });
   },
 };
