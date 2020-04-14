@@ -4,19 +4,21 @@ const headed = {
   specs: ["./spec/*.spec.ts"],
   capabilities: [
     {
-      browserName: "chrome"
-    }
+      browserName: "chrome",
+    },
   ],
   logLevel: "silent",
   services: ["chromedriver"],
   framework: "mocha",
   reporters: ["dot"],
   mochaOpts: {
-    timeout: 60000
+    timeout: 60000,
   },
-  before: function(capabilities, specs) {
+  jasmineNodeOpts: {},
+  cucumberOpts: {},
+  before: (capabilities, specs) => {
     require("ts-node").register({ files: true });
-  }
+  },
 };
 
 const headless = {
@@ -28,19 +30,21 @@ const headless = {
       browserName: "chrome",
       "goog:chromeOptions": {
         args: ["--headless", "--disable-gpu"]
-      }
-    }
+      },
+    },
   ],
   logLevel: "silent",
   services: ["chromedriver"],
   framework: "mocha",
   reporters: ["dot"],
   mochaOpts: {
-    timeout: 60000
+    timeout: 60000,
   },
-  before: function(capabilities, specs) {
+  jasmineNodeOpts: {},
+  cucumberOpts: {},
+  before: (capabilities, specs) => {
     require("ts-node").register({ files: true });
-  }
+  },
 };
 
 const config = process.env.GITHUB_ACTIONS ? headless : headed;
