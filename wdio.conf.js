@@ -16,6 +16,7 @@ const headed = {
   },
   jasmineNodeOpts: {},
   cucumberOpts: {},
+  // eslint-disable-next-line no-unused-vars
   before: (capabilities, specs) => {
     require("ts-node").register({ files: true });
   },
@@ -42,6 +43,7 @@ const headless = {
   },
   jasmineNodeOpts: {},
   cucumberOpts: {},
+  // eslint-disable-next-line no-unused-vars
   before: (capabilities, specs) => {
     require("ts-node").register({ files: true });
   },
