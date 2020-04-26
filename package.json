@@ -11,7 +11,7 @@
     "@wdio/sync": "6.1.0",
     "chai": "4.2.0",
     "chromedriver": "80.0.2",
-    "mocha": "7.1.1",
+    "mocha": "7.1.2",
     "ts-node": "8.9.1",
     "typescript": "3.8.3",
     "wdio-chromedriver-service": "6.0.2"
