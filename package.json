@@ -6,8 +6,8 @@
   "dependencies": {
     "@wdio/cli": "6.1.5",
     "@wdio/dot-reporter": "6.1.5",
-    "@wdio/local-runner": "6.1.5",
-    "@wdio/mocha-framework": "6.1.5",
+    "@wdio/local-runner": "6.1.6",
+    "@wdio/mocha-framework": "6.1.6",
     "@wdio/sync": "6.1.5",
     "chai": "4.2.0",
     "chromedriver": "80.0.2",
