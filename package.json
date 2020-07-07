@@ -10,7 +10,7 @@
     "@wdio/mocha-framework": "6.1.19",
     "@wdio/sync": "6.1.14",
     "chai": "4.2.0",
-    "chromedriver": "83.0.0",
+    "chromedriver": "83.0.1",
     "mocha": "8.0.1",
     "ts-node": "8.10.2",
     "typescript": "3.9.6",
