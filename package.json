@@ -13,7 +13,7 @@
     "chromedriver": "85.0.1",
     "mocha": "8.1.3",
     "ts-node": "9.0.0",
-    "typescript": "4.0.2",
+    "typescript": "4.0.3",
     "wdio-chromedriver-service": "6.0.4"
   },
   "description": "WebdriverIO end-to-end test automation boilerplate. Using TypeScript, ts-node, Mocha, Chai and Expect.",
