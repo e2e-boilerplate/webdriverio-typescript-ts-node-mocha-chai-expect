@@ -13,7 +13,6 @@ const headed = {
   reporters: ["dot"],
   mochaOpts: {
     timeout: 60000,
-    require: ["@babel/register"],
   },
   jasmineNodeOpts: {},
   cucumberOpts: {},
@@ -42,7 +41,6 @@ const headless = {
   reporters: ["dot"],
   mochaOpts: {
     timeout: 60000,
-    require: ["@babel/register"],
   },
   jasmineNodeOpts: {},
   cucumberOpts: {},
