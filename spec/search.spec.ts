@@ -7,7 +7,7 @@ describe("Sandbox", () => {
 
   it("should be on Sandbox", () => {
     const title: string = browser.getTitle();
-    const header: string = $("h1").getText();
+    const header: string = browser.$("h1").getText();
 
     expect(title).to.eq("Sandbox");
     expect(header).to.eq("Sandbox");
