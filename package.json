@@ -19,6 +19,7 @@
   "description": "WebdriverIO end-to-end test automation boilerplate. Using TypeScript, ts-node, Mocha, Chai and Expect.",
   "devDependencies": {
     "@types/chai": "4.2.16",
+    "@types/jquery": "3.5.5",
     "@types/mocha": "8.2.2",
     "@types/node": "13.13.50",
     "husky": "6.0.0",
