@@ -11,7 +11,7 @@
     "@wdio/sync": "7.8.0",
     "chai": "4.3.4",
     "chromedriver": "90.0.1",
-    "mocha": "8.4.0",
+    "mocha": "9.2.2",
     "ts-node": "9.1.1",
     "typescript": "4.3.5",
     "wdio-chromedriver-service": "7.2.0"
@@ -19,7 +19,7 @@
   "description": "WebdriverIO end-to-end test automation boilerplate. Using TypeScript, ts-node, Mocha, Chai and Expect.",
   "devDependencies": {
     "@types/chai": "4.2.21",
-    "@types/mocha": "8.2.3",
+    "@types/mocha": "9.1.1",
     "@types/node": "13.13.52",
     "husky": "6.0.0",
     "lint-staged": "10.5.4",
