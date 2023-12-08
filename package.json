@@ -12,7 +12,7 @@
     "chai": "4.3.4",
     "chromedriver": "90.0.1",
     "mocha": "8.4.0",
-    "ts-node": "9.1.1",
+    "ts-node": "10.9.2",
     "typescript": "4.3.5",
     "wdio-chromedriver-service": "7.2.0"
   },
